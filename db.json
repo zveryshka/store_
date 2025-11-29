@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "username": "Ivan_Seller_Pro",
+      "email": "ivan.pro@shop.ua",
+      "role": "Seller"
+    },
+    {
+      "user_id": 2,
+      "username": "Olena_Tech",
+      "email": "olena.tech@shop.ua",
+      "role": "Seller"
+    },
+    {
+      "user_id": 3,
+      "username": "Mykola_Manager",
+      "email": "mykola.manager@shop.ua",
+      "role": "Admin"
+    },
+    {
+      "user_id": 4,
+      "username": "Maria_Customer",
+      "email": "maria.c@shop.ua",
+      "role": "Customer"
+    },
+    {
+      "user_id": 5,
+      "username": "Dmytro_Gadget",
+      "email": "dmytro.g@shop.ua",
+      "role": "Customer"
+    }
+  ],
+  "products": [
+    {
+      "product_id": 101,
+      "name": "Смартфон 'Quantum' X12",
+      "price": 25999.00,
+      "category": "Смартфони",
+      "stock": 50,
+      "user_id": 1
+    },
+    {
+      "product_id": 102,
+      "name": "Ноутбук 'Aether' Pro M3",
+      "price": 45500.00,
+      "category": "Ноутбуки",
+      "stock": 25,
+      "user_id": 2
+    },
+    {
+      "product_id": 103,
+      "name": "Бездротові навушники 'Aura' Sound",
+      "price": 3499.00,
+      "category": "Аудіо",
+      "stock": 150,
+      "user_id": 1
+    },
+    {
+      "product_id": 104,
+      "name": "4K Телевізор 'Vision' 55\"",
+      "price": 18999.00,
+      "category": "Телевізори",
+      "stock": 15,
+      "user_id": 2
+    },
+    {
+      "product_id": 105,
+      "name": "Розумний годинник 'Chrono' Fit",
+      "price": 5999.00,
+      "category": "Аксесуари",
+      "stock": 80,
+      "user_id": 1
+    },
+    {
+      "product_id": 106,
+      "name": "Ігрова миша 'Apex' RGB",
+      "price": 1200.00,
+      "category": "Комп'ютерні аксесуари",
+      "stock": 200,
+      "user_id": 2
+    },
+    {
+      "product_id": 107,
+      "name": "Планшет 'Tabula' Lite 10\"",
+      "price": 8999.00,
+      "category": "Планшети",
+      "stock": 40,
+      "user_id": 1
+    },
+    {
+      "product_id": 108,
+      "name": "Зовнішній SSD 1ТБ 'Velocity'",
+      "price": 4900.00,
+      "category": "Сховище даних",
+      "stock": 70,
+      "user_id": 2
+    },
+    {
+      "product_id": 109,
+      "name": "Дзеркальна камера 'Reflex' D500",
+      "price": 32000.00,
+      "category": "Фото/Відео",
+      "stock": 10,
+      "user_id": 1
+    },
+    {
+      "product_id": 110,
+      "name": "Портативна колонка 'BoomBox' Mini",
+      "price": 1850.00,
+      "category": "Аудіо",
+      "stock": 120,
+      "user_id": 2
+    },
+    {
+      "product_id": 111,
+      "name": "Електронна книга 'PageTurner' HD",
+      "price": 4200.00,
+      "category": "Електронні пристрої",
+      "stock": 60,
+      "user_id": 1
+    },
+    {
+      "product_id": 112,
+      "name": "Wi-Fi роутер 'Nexus' AC3000",
+      "price": 2700.00,
+      "category": "Мережеве обладнання",
+      "stock": 90,
+      "user_id": 2
+    },
+    {
+      "product_id": 113,
+      "name": "Відеокарта 'GeForce' RTX 4070",
+      "price": 28000.00,
+      "category": "Комплектуючі для ПК",
+      "stock": 30,
+      "user_id": 1
+    },
+    {
+      "product_id": 114,
+      "name": "Монітор 27\" QHD 'Clarity'",
+      "price": 11500.00,
+      "category": "Монітори",
+      "stock": 35,
+      "user_id": 2
+    },
+    {
+      "product_id": 115,
+      "name": "Безпровідна зарядка 'Flow'",
+      "price": 950.00,
+      "category": "Аксесуари",
+      "stock": 180,
+      "user_id": 1
+    },
+    {
+      "product_id": 116,
+      "name": "Кавоварка 'BrewMaster' Smart",
+      "price": 7200.00,
+      "category": "Побутова техніка",
+      "stock": 20,
+      "user_id": 2
+    },
+    {
+      "product_id": 117,
+      "name": "Дрон 'SkyEye' GPS",
+      "price": 15000.00,
+      "category": "Гаджети",
+      "stock": 8,
+      "user_id": 1
+    },
+    {
+      "product_id": 118,
+      "name": "Клавіатура механічна 'Tactile'",
+      "price": 2100.00,
+      "category": "Комп'ютерні аксесуари",
+      "stock": 110,
+      "user_id": 2
+    },
+    {
+      "product_id": 119,
+      "name": "Фен 'AirStream' Pro",
+      "price": 3100.00,
+      "category": "Побутова техніка",
+      "stock": 45,
+      "user_id": 1
+    },
+    {
+      "product_id": 120,
+      "name": "Система розумного дому 'HomeLink' Starter Kit",
+      "price": 9999.00,
+      "category": "Розумний дім",
+      "stock": 22,
+      "user_id": 2
+    }
+  ]
+}
